@@ -1,0 +1,70 @@
+html {
+  height: 100%;
+}
+
+img {
+  width: 1200px;
+  height: 1000px;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+body {
+  background-image: radial-gradient(black, grey, white);
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.footer {
+  position: absolute;
+  bottom: 30px;
+  width: 100%;
+}
+
+.heading {
+  text-shadow: 2px 2px 8px white;
+}
+
+.fried-butter-balls {
+  text-shadow: 2px 2px 8px #ba6530;
+}
+
+.grubs {
+  text-shadow: 2px 2px 8px #cfcc7e;
+}
+
+.snake-soup {
+  text-shadow: 2px 2px 8px #b88b06;
+}
+
+.honeycomb {
+  text-shadow: 2px 2px 8px #fae337;
+}
+
+.bird-embryo {
+  text-shadow: 2px 2px 8px #fce42b;
+}
+
+.maggot-cheese {
+  text-shadow: 2px 2px 8px #faf2b4;
+}
+
+.live-octopus {
+  text-shadow: 2px 2px 8px #ba54a9;
+}
+
+.century-egg {
+  text-shadow: 2px 2px 8px #346b2f;
+}
+
+.fat-bottomed-ants {
+  text-shadow: 2px 2px 8px #5c110c;
+}
+
+.fried-tarantula {
+  text-shadow: 2px 2px 8px #000000;
+}
